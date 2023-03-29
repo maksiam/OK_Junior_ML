@@ -11,7 +11,7 @@ Test task for examination Junior ML Engineer OK.ru
 
 **Пример работы:**
 
-*Input:* Rosetta
+*Input:* Rosetta  
 *Output:* Cult Of Luna, Pelican, Shels, The Ocean
 
 **Опционально:**
