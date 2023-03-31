@@ -33,7 +33,7 @@ Test task for examination Junior ML Engineer OK.ru
 ![grab-landing-page](https://github.com/maksiam/OK_Junior_ML/blob/main/comm_line.gif)
 
 ## Описание файлов репозитория
- - research.ipynb - jupyter notebook, который содержит EDA, предобработку файлов, матричные факторизациии, оценку качества и сериализацию необходимых структур;
+ - research.ipynb - jupyter notebook, который содержит EDA, предобработку файлов, матричные факторизациии, оценку качества и сериализацию необходимых структур (https://www.kaggle.com/maksiamiogan/research);
  - [script.py](https://github.com/maksiam/OK_Junior_ML/blob/main/script.py "script.py") - python-файл использующий готовую модель для поиска похожих исполнителей;
  - [requirements.txt](https://github.com/maksiam/OK_Junior_ML/blob/main/requirements.txt "requirements.txt") - файл с зависимостями, библиотеками для установки;
  - [src](https://github.com/maksiam/OK_Junior_ML/tree/main/src "src") - директория с сериализованными файлами модели, энкодера названий и декодера.
