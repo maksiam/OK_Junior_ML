@@ -29,4 +29,4 @@ Test task for examination Junior ML Engineer OK.ru
 3.  Запустить приложение, выполнив команду `python main.py`
 ## Использование
 Для поиска похожих исполнителей необходимо ввести название заданного исполнителя в консоль после запуска приложения. Приложение вернет список из пяти наиболее похожих исполнителей на заданного исполнителя.
-![grab-landing-page](https://github.com/winnie1312/grab/blob/master/grab-landingpage-winnie.gif)
+![grab-landing-page](https://github.com/maksiam/OK_Junior_ML/blob/main/comm_line.gif)
