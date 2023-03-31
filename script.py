@@ -12,6 +12,6 @@ with open("src\\title_decode.pkl", "rb") as f:
 artist = input("Исполнитель: ")
 if title_encode.get(artist) == None:
     print('Такого исполнителя нет')
-    quit()
-ids,scores = model.similar_items(title_encode.get(artist)-1, N = 5, filter_items = [title_encode.get(artist)-1])
-print("Похожие исполнители:",", ".join(itemgetter(*(ids+1))(title_decode)))
+else:
+    ids,scores = model.similar_items(title_encode.get(artist)-1, N = 5, filter_items = [title_encode.get(artist)-1])
+    print("Похожие исполнители:",", ".join(itemgetter(*(ids+1))(title_decode)))
